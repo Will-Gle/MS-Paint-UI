@@ -328,6 +328,10 @@ cursor: pointer;
     height: 20px;
 }
 
+.shapes-icon {
+    background-color: white;
+}
+
 .shape-btn button{
 background-color: #ffffff;
 }
